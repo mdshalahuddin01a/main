@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.contactContainer{
+    width: 613px;
+    height: 200px;
+    background-color: #464646;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 110px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.contactContainer p{
+    font-size: 9px;
+}
+.buttonContainer{
+    margin-top: 20px;
+}
+.buttonContainer .phn{
+    font-size: 11px;
+    padding: 9px 50px;
+    border-radius: 50px;
+    border: none;
+    background-color: #848484;
+    margin-right: 5px;
+    font-size: 9px;
+    cursor: pointer;
+
+}
+
+
+.buttonContainer .email:hover, .phn:hover, .plane:hover{
+
+    box-shadow: 1px 1px 4px #fff;
+    background-color: #FFFFFF;
+    transition: box-shadow 0.2s ease-in-out;
+
+};
+
+/* .phoneBtnParent #active{
+    background-color: #f2a900;
+    } */
+.buttonContainer #activeclass{
+    background-color: #f2a900;
+    }
+
+/* .buttonContainer .phn:hover{
+
+    box-shadow: 1px 1px 4px #fff;
+    background-color: #FFFFFF;
+    transition: box-shadow 0.2s ease-in-out;
+
+};
+
+.buttonContainer .plane:hover{
+
+    box-shadow: 1px 1px 4px #fff;
+    background-color: #FFFFFF;
+    transition: box-shadow 0.2s ease-in-out;
+
+} */

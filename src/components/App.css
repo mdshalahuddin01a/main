@@ -1,0 +1,23 @@
+.heading{
+    /* color: red; */
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 27px;
+}
+
+.startContainer{
+    text-align: center;
+    width: 713px;
+    height: 190px;
+    background-color: #464646;
+    color: #FFFFFF;
+    font-size: 11px;
+    margin-left: 35px;
+    padding: 20px 30px;
+}
+.startContainer a {
+    color: #f2a02d;
+    text-decoration: none;
+}
+.startContainer .link{
+    color:#f2a02d;
+}

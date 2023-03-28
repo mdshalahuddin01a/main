@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.Help{
+    width: 613px;
+    height: 220px;
+    background-color: #464646;
+    color: white;
+    /* margin-bottom: 10px; */
+    /* padding-top: 10px; */
+    margin-left: 110px;
+    /* color: #FFFFFF; */
+    /* font-size: 11px; */
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    /* margin-bottom: 70px; */
+}
+.Help input{
+    cursor: pointer;
+}
+.Help .how{
+    padding-top: 15px;
+}
+.Help p{
+    font-size: 7px;
+}
+.Help .main{
+display: flex;
+justify-content: space-between;
+}

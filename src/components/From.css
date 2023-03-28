@@ -1,0 +1,40 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 100px;
+}
+.progress{
+    width: 500px;
+    height: 7px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 107px;
+    left: 150px;
+    border-radius: 50px;
+}
+.progress .progressChild{
+    background-color: #f2a900;
+    width: 0%;
+    height: 100%;
+    border-radius: 50px;
+}
+.form {
+    position: relative;
+}
+.footer .next{
+    font-size: 9px;
+    padding: 9px 13px;
+    /* border-radius: 50px;
+    border: none;
+    color: white;
+    background-color: #294a93;
+    border: 1px solid black; */
+    cursor: pointer;
+}
+
+.footer .prev{
+  cursor: pointer;
+}
